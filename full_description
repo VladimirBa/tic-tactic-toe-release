@@ -1,0 +1,493 @@
+# Full Description
+
+---
+
+## English
+
+Tic Tactic Toe is a strategic evolution of the classic Tic Tac Toe — designed for players who want more than just Xs and Os. This tactical board game blends logic, turn-based gameplay, and deep analysis to deliver a smarter experience.
+
+🧠 Play against a smart bot:
+• 3 difficulty levels: from random moves to Minimax AI  
+• Blocking, forks, win-line detection
+
+🎮 Play with a friend:
+• Local multiplayer on one device  
+• Adaptive gameplay with tournament-style rounds
+
+🧩 Game setup:
+• Grid sizes from 8×8 to 12×12  
+• Win condition: 3 to 6 in a row  
+• Turn timer: 7 to 60 seconds  
+• Choose player colors, names, and game mode
+
+🌐 Localization:
+• Supports 11 languages: English, Русский, Українська, Español, Deutsch, Português, हिन्दी, Bahasa Indonesia, 中文, 日本語, 한국어
+
+📊 Game analysis:
+• Highlights winning line with glow effects  
+• Shows move numbers  
+• Tracks time, missed turns, and stats
+
+🎨 Design:
+• Light blue UI  
+• Glow visuals  
+• Minimalist style
+
+📤 Feedback:
+• Email: vonnab.e.v@gmail.com
+
+📱 Offline play:
+• No internet required
+
+⚙️ Built with Flutter:
+• Cross-platform  
+• Optimized for Android 8+
+
+If you're looking for a Tic Tac Toe that actually makes you think — Tic Tactic Toe is built for you.
+
+---
+
+## Русский
+
+Tic Tactic Toe — это стратегическая эволюция классических «Крестиков-ноликов», созданная для тех, кто хочет большего, чем просто X и O. Эта тактическая настольная игра сочетает логику, пошаговый геймплей и глубокий анализ, чтобы предложить более умный игровой опыт.
+
+🧠 Игра против умного бота:
+• 3 уровня сложности: от случайных ходов до Minimax AI  
+• Блокировка, вилки, определение выигрышной линии
+
+🎮 Игра с другом:
+• Локальный мультиплеер на одном устройстве  
+• Адаптивный геймплей с турнирами
+
+🧩 Настройка игры:
+• Размеры сетки от 8×8 до 12×12  
+• Условия победы: от 3 до 6 подряд  
+• Таймер хода: от 7 до 60 секунд  
+• Выбор цветов, имён и режима игры
+
+🌐 Локализация:
+• Поддержка 11 языков: English, Русский, Українська, Español, Deutsch, Português, हिन्दी, Bahasa Indonesia, 中文, 日本語, 한국어
+
+📊 Анализ игры:
+• Подсветка выигрышной линии  
+• Номера ходов  
+• Время, пропущенные ходы, статистика
+
+🎨 Дизайн:
+• Голубой интерфейс  
+• Светящиеся элементы  
+• Минимализм
+
+📤 Обратная связь:
+• Email: vonnab.e.v@gmail.com
+
+📱 Оффлайн-режим:
+• Интернет не требуется
+
+⚙️ Построено на Flutter:
+• Кроссплатформенность  
+• Оптимизация под Android 8+
+
+Если вы ищете «Крестики-нолики», которые заставляют думать — Tic Tactic Toe создан для вас.
+
+---
+
+## Українська
+
+Tic Tactic Toe — це стратегічна еволюція класичних «Хрестиків-ноликів», створена для тих, хто хоче більшого, ніж просто X і O. Ця тактична настільна гра поєднує логіку, покроковий геймплей і глибокий аналіз, щоб запропонувати розумніший ігровий досвід.
+
+🧠 Гра проти розумного бота:
+• 3 рівні складності: від випадкових ходів до Minimax AI  
+• Блокування, вилки, визначення виграшної лінії
+
+🎮 Гра з другом:
+• Локальний мультиплеєр на одному пристрої  
+• Адаптивний геймплей з турнірними раундами
+
+🧩 Налаштування гри:
+• Розміри сітки від 8×8 до 12×12  
+• Умови перемоги: від 3 до 6 підряд  
+• Таймер ходу: від 7 до 60 секунд  
+• Вибір кольорів, імен і режиму гри
+
+🌐 Локалізація:
+• Підтримка 11 мов: English, Русский, Українська, Español, Deutsch, Português, हिन्दी, Bahasa Indonesia, 中文, 日本語, 한국어
+
+📊 Аналіз гри:
+• Підсвічування виграшної лінії  
+• Номери ходів  
+• Час, пропущені ходи, статистика
+
+🎨 Дизайн:
+• Голубий інтерфейс  
+• Світлові ефекти  
+• Мінімалізм
+
+📤 Зворотний зв’язок:
+• Email: vonnab.e.v@gmail.com
+
+📱 Офлайн-режим:
+• Інтернет не потрібен
+
+⚙️ Побудовано на Flutter:
+• Кросплатформеність  
+• Оптимізовано для Android 8+
+
+Якщо ви шукаєте «Хрестики-нолики», які змушують думати — Tic Tactic Toe створено саме для вас.
+---
+
+## Español
+
+Tic Tactic Toe es una evolución estratégica del clásico Tres en Raya, diseñada para jugadores que buscan más que simples X y O. Este juego de mesa táctico combina lógica, jugabilidad por turnos y análisis profundo para ofrecer una experiencia más inteligente.
+
+🧠 Juega contra un bot inteligente:
+• 3 niveles de dificultad: desde movimientos aleatorios hasta IA Minimax  
+• Bloqueo, bifurcaciones, detección de línea ganadora
+
+🎮 Juega con un amigo:
+• Multijugador local en un solo dispositivo  
+• Jugabilidad adaptativa con rondas estilo torneo
+
+🧩 Configuración del juego:
+• Tamaños de cuadrícula de 8×8 a 12×12  
+• Condición de victoria: de 3 a 6 en línea  
+• Temporizador de turno: de 7 a 60 segundos  
+• Elige colores de jugador, nombres y modo de juego
+
+🌐 Localización:
+• Soporte para 11 idiomas: English, Русский, Українська, Español, Deutsch, Português, हिन्दी, Bahasa Indonesia, 中文, 日本語, 한국어
+
+📊 Análisis del juego:
+• Resalta la línea ganadora con efectos de brillo  
+• Muestra el número de cada movimiento  
+• Registra tiempo, turnos perdidos y estadísticas
+
+🎨 Diseño:
+• Interfaz azul claro  
+• Visuales con brillo  
+• Estilo minimalista
+
+📤 Comentarios:
+• Email: vonnab.e.v@gmail.com
+
+📱 Juego sin conexión:
+• No se requiere conexión a Internet
+
+⚙️ Desarrollado con Flutter:
+• Multiplataforma  
+• Optimizado para Android 8+
+
+Si buscas un Tres en Raya que realmente te haga pensar — Tic Tactic Toe está hecho para ti.
+
+---
+
+## Deutsch
+
+Tic Tactic Toe ist eine strategische Weiterentwicklung des klassischen Tic Tac Toe – für Spieler, die mehr wollen als nur X und O. Dieses taktische Brettspiel kombiniert Logik, rundenbasiertes Gameplay und tiefgehende Analyse für ein intelligenteres Spielerlebnis.
+
+🧠 Spiele gegen einen intelligenten Bot:
+• 3 Schwierigkeitsstufen: von zufälligen Zügen bis zur Minimax-KI  
+• Blockieren, Gabeln, Erkennung von Gewinnlinien
+
+🎮 Spiele mit einem Freund:
+• Lokaler Mehrspielermodus auf einem Gerät  
+• Anpassbares Gameplay mit Turnier-Runden
+
+🧩 Spielkonfiguration:
+• Spielfeldgrößen von 8×8 bis 12×12  
+• Gewinnbedingung: 3 bis 6 in einer Reihe  
+• Zug-Timer: 7 bis 60 Sekunden  
+• Auswahl von Spielerfarben, Namen und Spielmodus
+
+🌐 Lokalisierung:
+• Unterstützt 11 Sprachen: English, Русский, Українська, Español, Deutsch, Português, हिन्दी, Bahasa Indonesia, 中文, 日本語, 한국어
+
+📊 Spielanalyse:
+• Hervorhebung der Gewinnlinie mit Leuchteffekten  
+• Anzeige der Zugnummern  
+• Erfassung von Zeit, verpassten Zügen und Statistiken
+
+🎨 Design:
+• Hellblaues UI  
+• Leuchteffekte  
+• Minimalistischer Stil
+
+📤 Feedback:
+• E-Mail: vonnab.e.v@gmail.com
+
+📱 Offline-Spiel:
+• Keine Internetverbindung erforderlich
+
+⚙️ Entwickelt mit Flutter:
+• Plattformübergreifend  
+• Optimiert für Android 8+
+
+Wenn du ein Tic Tac Toe suchst, das dich wirklich zum Nachdenken bringt – Tic Tactic Toe ist genau das Richtige für dich.
+
+---
+
+## Português
+
+Tic Tactic Toe é uma evolução estratégica do clássico Jogo da Velha — projetado para jogadores que querem mais do que apenas X e O. Este jogo de tabuleiro tático combina lógica, jogabilidade por turnos e análise profunda para oferecer uma experiência mais inteligente.
+
+🧠 Jogue contra um bot inteligente:
+• 3 níveis de dificuldade: de movimentos aleatórios até IA Minimax  
+• Bloqueio, bifurcações, detecção de linha vencedora
+
+🎮 Jogue com um amigo:
+• Multijogador local em um único dispositivo  
+• Jogabilidade adaptativa com rodadas estilo torneio
+
+🧩 Configuração do jogo:
+• Tamanhos de grade de 8×8 a 12×12  
+• Condição de vitória: de 3 a 6 em linha  
+• Temporizador de turno: de 7 a 60 segundos  
+• Escolha cores dos jogadores, nomes e modo de jogo
+
+🌐 Localização:
+• Suporte para 11 idiomas: English, Русский, Українська, Español, Deutsch, Português, हिन्दी, Bahasa Indonesia, 中文, 日本語, 한국어
+
+📊 Análise do jogo:
+• Destaque da linha vencedora com efeitos de brilho  
+• Exibição dos números dos movimentos  
+• Rastreamento de tempo, turnos perdidos e estatísticas
+
+🎨 Design:
+• Interface azul clara  
+• Visuais com brilho  
+• Estilo minimalista
+
+📤 Feedback:
+• Email: vonnab.e.v@gmail.com
+
+📱 Jogo offline:
+• Não requer conexão com a internet
+
+⚙️ Desenvolvido com Flutter:
+• Multiplataforma  
+• Otimizado para Android 8+
+
+Se você procura um Jogo da Velha que realmente faça você pensar — Tic Tactic Toe foi feito para você.
+---
+
+## हिन्दी
+
+Tic Tactic Toe क्लासिक टिक-टैक-टो का एक रणनीतिक रूपांतरण है — उन खिलाड़ियों के लिए जो केवल X और O से अधिक चाहते हैं। यह टैक्टिकल बोर्ड गेम लॉजिक, टर्न-बेस्ड गेमप्ले और गहन विश्लेषण को मिलाकर एक स्मार्ट अनुभव प्रदान करता है।
+
+🧠 स्मार्ट बॉट के खिलाफ खेलें:
+• 3 कठिनाई स्तर: रैंडम मूव्स से लेकर Minimax AI तक  
+• ब्लॉकिंग, फोर्क्स, विन-लाइन डिटेक्शन
+
+🎮 दोस्त के साथ खेलें:
+• एक ही डिवाइस पर लोकल मल्टीप्लेयर  
+• टूर्नामेंट-शैली की राउंड्स के साथ अनुकूली गेमप्ले
+
+🧩 गेम सेटअप:
+• ग्रिड साइज़: 8×8 से 12×12  
+• जीत की शर्त: 3 से 6 लगातार  
+• टर्न टाइमर: 7 से 60 सेकंड  
+• खिलाड़ी के रंग, नाम और मोड चुनें
+
+🌐 स्थानीयकरण:
+• 11 भाषाओं का समर्थन: English, Русский, Українська, Español, Deutsch, Português, हिन्दी, Bahasa Indonesia, 中文, 日本語, 한국어
+
+📊 गेम विश्लेषण:
+• ग्लो इफेक्ट्स के साथ विनिंग लाइन को हाइलाइट करें  
+• मूव नंबर दिखाएं  
+• समय, मिस्ड टर्न्स और आँकड़े ट्रैक करें
+
+🎨 डिज़ाइन:
+• हल्का नीला UI  
+• चमकदार विज़ुअल्स  
+• मिनिमलिस्ट स्टाइल
+
+📤 फीडबैक:
+• ईमेल: vonnab.e.v@gmail.com
+
+📱 ऑफलाइन खेल:
+• इंटरनेट की आवश्यकता नहीं
+
+⚙️ Flutter के साथ निर्मित:
+• क्रॉस-प्लेटफ़ॉर्म  
+• Android 8+ के लिए अनुकूलित
+
+अगर आप ऐसा टिक-टैक-टो ढूंढ रहे हैं जो वास्तव में सोचने पर मजबूर करे — Tic Tactic Toe आपके लिए बनाया गया है।
+
+---
+
+## Bahasa Indonesia
+
+Tic Tactic Toe adalah evolusi strategis dari permainan klasik Tic Tac Toe — dirancang untuk pemain yang menginginkan lebih dari sekadar X dan O. Permainan papan taktis ini menggabungkan logika, gameplay berbasis giliran, dan analisis mendalam untuk memberikan pengalaman bermain yang lebih cerdas.
+
+🧠 Bermain melawan bot pintar:
+• 3 tingkat kesulitan: dari gerakan acak hingga AI Minimax  
+• Pemblokiran, percabangan, deteksi garis kemenangan
+
+🎮 Bermain dengan teman:
+• Multiplayer lokal di satu perangkat  
+• Gameplay adaptif dengan putaran bergaya turnamen
+
+🧩 Pengaturan permainan:
+• Ukuran grid dari 8×8 hingga 12×12  
+• Kondisi menang: 3 hingga 6 dalam satu baris  
+• Timer giliran: 7 hingga 60 detik  
+• Pilih warna pemain, nama, dan mode permainan
+
+🌐 Lokalisasi:
+• Mendukung 11 bahasa: English, Русский, Українська, Español, Deutsch, Português, हिन्दी, Bahasa Indonesia, 中文, 日本語, 한국어
+
+📊 Analisis permainan:
+• Sorot garis kemenangan dengan efek cahaya  
+• Tampilkan nomor langkah  
+• Lacak waktu, giliran yang terlewat, dan statistik
+
+🎨 Desain:
+• Antarmuka biru muda  
+• Visual bercahaya  
+• Gaya minimalis
+
+📤 Umpan balik:
+• Email: vonnab.e.v@gmail.com
+
+📱 Bermain offline:
+• Tidak memerlukan koneksi internet
+
+⚙️ Dibuat dengan Flutter:
+• Lintas platform  
+• Dioptimalkan untuk Android 8+
+
+Jika Anda mencari Tic Tac Toe yang benar-benar membuat Anda berpikir — Tic Tactic Toe dibuat untuk Anda.
+
+---
+
+## 中文
+
+Tic Tactic Toe 是经典井字棋的战略升级版，专为那些希望获得更深层次体验的玩家设计。这款战术棋盘游戏融合了逻辑思维、回合制玩法和深度分析，带来更智能的游戏体验。
+
+🧠 与智能机器人对战：
+• 3 个难度等级：从随机走位到 Minimax 人工智能  
+• 阻挡、分叉、胜利线识别
+
+🎮 与朋友一起玩：
+• 单设备本地多人模式  
+• 带有锦标赛风格回合的自适应玩法
+
+🧩 游戏设置：
+• 棋盘大小从 8×8 到 12×12  
+• 胜利条件：连续 3 到 6 个棋子  
+• 回合计时器：7 到 60 秒  
+• 可选择玩家颜色、名称和游戏模式
+
+🌐 本地化支持：
+• 支持 11 种语言：English, Русский, Українська, Español, Deutsch, Português, हिन्दी, Bahasa Indonesia, 中文, 日本語, 한국어
+
+📊 游戏分析：
+• 使用发光效果高亮胜利线  
+• 显示每步编号  
+• 记录时间、错过的回合和统计数据
+
+🎨 设计风格：
+• 浅蓝色用户界面  
+• 发光视觉效果  
+• 极简风格
+
+📤 反馈方式：
+• 邮箱：vonnab.e.v@gmail.com
+
+📱 离线游戏：
+• 无需连接互联网
+
+⚙️ 基于 Flutter 构建：
+• 跨平台支持  
+• 针对 Android 8+ 优化
+
+如果你正在寻找一款真正能激发思考的井字棋游戏 — Tic Tactic Toe 就是为你量身打造的。
+---
+
+## 日本語
+
+Tic Tactic Toe は、従来の三目並べを戦略的に進化させたゲームであり、単なる「〇」と「×」以上のものを求めるプレイヤーのために設計されています。この戦術的なボードゲームは、論理的思考、ターン制のゲームプレイ、そして深い分析を融合し、よりスマートな体験を提供します。
+
+🧠 賢いボットとの対戦:
+• 難易度は3段階：ランダムな動きから Minimax AI まで  
+• ブロック、フォーク、勝利ラインの検出
+
+🎮 友達とのプレイ:
+• 1台のデバイスでローカルマルチプレイヤー  
+• トーナメント形式のラウンドによる適応型ゲームプレイ
+
+🧩 ゲーム設定:
+• グリッドサイズ：8×8 ～ 12×12  
+• 勝利条件：3 ～ 6 連続  
+• ターンタイマー：7 ～ 60 秒  
+• プレイヤーの色、名前、ゲームモードを選択可能
+
+🌐 ローカライズ:
+• 対応言語：English, Русский, Українська, Español, Deutsch, Português, हिन्दी, Bahasa Indonesia, 中文, 日本語, 한국어
+
+📊 ゲーム分析:
+• 勝利ラインを光で強調表示  
+• 各手の番号を表示  
+• 時間、見逃したターン、統計を追跡
+
+🎨 デザイン:
+• ライトブルーの UI  
+• 光るビジュアル  
+• ミニマリストスタイル
+
+📤 フィードバック:
+• メール：vonnab.e.v@gmail.com
+
+📱 オフラインプレイ:
+• インターネット接続不要
+
+⚙️ Flutter による構築:
+• クロスプラットフォーム対応  
+• Android 8 以降に最適化
+
+思考力を試す三目並べを探しているなら、Tic Tactic Toe があなたのために作られたゲームです。
+
+---
+
+## 한국어
+
+Tic Tactic Toe는 고전적인 틱택토를 전략적으로 발전시킨 게임으로, 단순한 X와 O 이상의 것을 원하는 플레이어를 위해 설계되었습니다. 이 전술적 보드 게임은 논리, 턴 기반 게임플레이, 깊이 있는 분석을 결합하여 더 스마트한 경험을 제공합니다.
+
+🧠 스마트 봇과 대결:
+• 난이도 3단계: 무작위 움직임부터 Minimax AI까지  
+• 차단, 포크, 승리 라인 감지
+
+🎮 친구와 함께 플레이:
+• 하나의 기기에서 로컬 멀티플레이어  
+• 토너먼트 스타일 라운드가 있는 적응형 게임플레이
+
+🧩 게임 설정:
+• 그리드 크기: 8×8 ~ 12×12  
+• 승리 조건: 연속 3 ~ 6개  
+• 턴 타이머: 7 ~ 60초  
+• 플레이어 색상, 이름, 게임 모드 선택 가능
+
+🌐 현지화:
+• 11개 언어 지원: English, Русский, Українська, Español, Deutsch, Português, हिन्दी, Bahasa Indonesia, 中文, 日本語, 한국어
+
+📊 게임 분석:
+• 빛나는 효과로 승리 라인 강조  
+• 이동 번호 표시  
+• 시간, 놓친 턴, 통계 추적
+
+🎨 디자인:
+• 연한 파란색 UI  
+• 글로우 비주얼  
+• 미니멀리스트 스타일
+
+📤 피드백:
+• 이메일: vonnab.e.v@gmail.com
+
+📱 오프라인 플레이:
+• 인터넷 연결 불필요
+
+⚙️ Flutter로 제작:
+• 크로스 플랫폼  
+• Android 8+ 최적화
+
+진짜로 생각하게 만드는 틱택토를 찾고 있다면 — Tic Tactic Toe는 당신을 위해 만들어졌습니다。
