@@ -35,6 +35,17 @@ These data are not shared with third parties and are not stored beyond the time 
 
 ---
 
+## Français
+
+Cette application ne collecte ni ne stocke de données personnelles. Toutes les données restent sur votre appareil.  
+Nous n'utilisons pas de services tiers et ne demandons pas l'accès aux contacts, à la localisation ou à l'appareil photo.  
+L'application peut afficher des publicités, mais aucune information n'est partagée avec les réseaux publicitaires.
+
+Lorsque vous envoyez un commentaire via l'application, nous recueillons votre adresse e-mail et le contenu du message uniquement pour répondre à votre demande.  
+Ces données ne sont pas partagées avec des tiers et ne sont pas conservées au-delà du temps nécessaire pour traiter votre demande.
+
+---
+
 ## Español
 
 Esta aplicación no recopila ni almacena datos personales. Todos los datos permanecen en su dispositivo.  
