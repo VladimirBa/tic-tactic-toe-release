@@ -1,0 +1,38 @@
+# Version 1.0 – Initial Release
+
+## 🧠 AI Gameplay
+- Implemented Minimax bot with 3 difficulty levels (Easy, Medium, Hard)
+- Added fork detection and advanced win‑line logic
+
+## 🎮 Multiplayer
+- Local two‑player mode on a single device
+- Tournament‑style rounds with adaptive scoring
+
+## 🧩 Game Setup
+- Grid sizes: 8×8, 10×10, 12×12
+- Win condition: 3 to 6 in a row
+- Turn timer: 7–60 seconds (configurable)
+- Player customization: names, colors, and game mode (classic/custom)
+
+## 🌐 Localization
+- Full support for 12 languages (including RTL layouts)
+- Proper font fallback for all scripts
+
+## 📊 Analytics
+- Move numbers and glow effects for winning lines
+- Time tracking, missed turns, and detailed session statistics
+
+## 🎨 UI & Design
+- Light blue theme with minimalist, responsive layout
+- Glow visuals and smooth animations
+
+## 📤 Feedback
+- Integrated email feedback (Resend / Mailersend)
+- Localized success and error messages
+
+## 📱 Offline Mode
+- No internet connection required – play anywhere
+
+## ⚙️ Tech Stack
+- Built with Flutter
+- Optimized for Android 8.0 (API level 26) and above
